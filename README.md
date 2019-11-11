@@ -37,6 +37,10 @@ It is rather crude to link all the .o with the executables (see the CMakeLists.t
 I will accept a PR (pull-request) if you change this bit to
 make a static-linked library (.a) for the core files.
 
+## See Also 
+Optimized version of DBOW with AVX/SSE instructions
+https://github.com/rmsalinas/fbow
+
 
 ## Author
 Manohar Kuse <mpkuse@connect.ust.hk><br/>
